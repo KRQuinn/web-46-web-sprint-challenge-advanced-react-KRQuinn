@@ -77,8 +77,12 @@ const plantsData = [
     scientificName: "Davallia fejeensis",
     difficulty: "medium",
     light: "indirect",
+    // img broken because the page no longer exists
+    // img:
+    //   "https://cdn.shopify.com/s/files/1/2781/9558/products/FERN_RABBITSFOOT-1_800x.png?v=1587152433",
+    // replacing img with one from a different source below because it was bothering me >_>
     img:
-      "https://cdn.shopify.com/s/files/1/2781/9558/products/FERN_RABBITSFOOT-1_800x.png?v=1587152433",
+      "https://www.bloomerselgin.com/wp-content/uploads/Photo-Jul-01-10-48-51-AM.jpg",
     sizes: ["small"],
     watering: 4,
     description:
